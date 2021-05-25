@@ -4,7 +4,7 @@ This directory contains the code necessary for visualizing your CartPole agent i
 
 Please follow the steps below to get started:
 
-1. Create a local copy of this repository (by cloning it via GitHub Desktop / [Git](https://git-scm.com/docs/git-clone), or by [downloading it as a `.ZIP` file](https://github.com/Harrow-Enigma/ai-lecture-series-summer21/archive/refs/heads/main.zip)).
+1. Create a local copy of this repository (by cloning it via GitHub Desktop / [Git](https://git-scm.com/docs/git-clone), or by [downloading it as a `.ZIP` file](https://github.com/Harrow-Enigma/ai-lecture-series-summer21/archive/refs/heads/main.zip)). The latter is probably the simplest.
 
 2. Install the Python packages `numpy`, `gym`, `tensorflow`. The simplest way to do this is is via *pip*. Run the following command in your terminal:
    
