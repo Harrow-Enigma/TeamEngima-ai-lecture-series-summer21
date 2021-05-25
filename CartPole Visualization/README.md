@@ -1,6 +1,6 @@
 # CartPole Visualization
 
-This directory contains the code necessary for visualizing your CartPole!
+This directory contains the code necessary for visualizing your CartPole agent in action.
 
 Please follow the steps below to get started:
 
