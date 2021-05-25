@@ -1,6 +1,6 @@
 # CartPole Visualization
 
-This directory contains everything you need to visualize your CartPole agent!
+This directory contains the code you need to visualize your CartPole agent balancing its pole!
 
 Please follow the steps below to get started:
 
